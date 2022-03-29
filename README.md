@@ -21,4 +21,8 @@ So the flow so far is like this
 6. Submit, hopefully all OK
 
 ### WARNING ###
-Please run only 1 isntance of this at a time, close the browser too if u decide to stop mid way, because if not somehow can cause missing element DOM errors yadayada
+* Please run only 1 isntance of this at a time, close the browser too if u decide to stop mid way, because if not somehow can cause missing element DOM errors yadayada
+* inside send_query() function, there is the command that presses the submit query to agent button. comment/disable this if you dont want to use it. THere is a warning comment just check it out
+
+i hope this works lmao
+
