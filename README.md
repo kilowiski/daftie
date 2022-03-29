@@ -1,5 +1,6 @@
 # daftie
-look for house in daft ie thank you lib
+look for house in daft ie thank you lib. much thank to this guy
+https://github.com/AnthonyBloomer/daftlistings
 
 dont forget make a .env file for these variables
 * USER_EMAIL=
