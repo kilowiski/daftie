@@ -8,6 +8,8 @@ dont forget make a .env file for these variables
 * FULL_NAME=
 * PHONE=
 * MESSAGE=
+* REFRESH_PERIOD_IN_SECONDS=
+
 
 ### HOW THIS WORKS ###
 So the flow so far is like this
